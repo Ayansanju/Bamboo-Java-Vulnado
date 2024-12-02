@@ -1,7 +1,7 @@
 ---
 version: 2
 plan:
-  project-key: VUL
+  project-key: VULNADO
   key: VULB
   name: Security Scans
 
