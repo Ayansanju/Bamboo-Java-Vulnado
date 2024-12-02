@@ -1,8 +1,8 @@
 ---
 version: 2
 plan:
-  project-key: VULNADO
-  key: SAS
+  project-key: TEST
+  key: TEST1
   name: Security Scans
 
 variables:
